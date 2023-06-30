@@ -35,5 +35,5 @@ dependencies {
     implementation project(":ToastPro")
     implementation 'androidx.constraintlayout:constraintlayout:2.1.4'
     implementation 'com.github.dk19121991:EmailValidator:1.5'
-
+//    implementation 'com.github.arpitabvm:jitPackProDemo:1.0'
 }

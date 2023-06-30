@@ -13,6 +13,15 @@ dependencyResolutionManagement {
         mavenCentral()
         mavenLocal()
         maven { url 'https://jitpack.io' }
+
+//        maven {
+//            url "https://jitpack.io"
+//            credentials {
+//                username = "arpitabvm"
+//                password = "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"
+//            }
+//        }
+
     }
 }
 rootProject.name = "jitPackPro"
